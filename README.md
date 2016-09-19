@@ -6,6 +6,7 @@ You can also see my other works by visiting www.omprakashchaudhary.com
 
 
 Below are the steps to run this project locally on your computer.
+once you download the repository as zip, do the following :-
 
 1: extract the zip file
 2: cd to myproject via terminal
